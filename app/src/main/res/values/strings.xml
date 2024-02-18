@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NearBy Places</string>
+    <string name="search_places">Search Places..</string>
+    <string name="movie_theatre">Movie Theatre</string>
+    <string name="museum">Museum</string>
+    <string name="planetarium">Planetarium</string>
+    <string name="office">Office</string>
+    <string name="fried_chicken_joint">Fried Chicken Joint</string>
+    <string name="pizzeria">Pizzeria</string>
+</resources>
